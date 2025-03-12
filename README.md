@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+&type=![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?text=hemu home)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=twingkling)
 <!--
 **hemu0-0/hemu0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
