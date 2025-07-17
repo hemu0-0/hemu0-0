@@ -27,7 +27,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rock+Salt&pause=1000&color=020608&repeat=false&width=435&lines=SKILLS+%26+TOOLS)](https://git.io/typing-svg)
 ---------------------------------------
+## 🧰 Language&tool
 ![GIT](https://img.shields.io/badge/[GIT]-[F05032].svg?&style=for-the-badge&logo=[GIT]&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+---------------------------------------
+## :robot: AI assistance
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+
+
 
